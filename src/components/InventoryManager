@@ -1,0 +1,9 @@
+import InventoryManager from './InventoryManager';
+
+function App() {
+  return (
+    <div className="container">
+      <InventoryManager />
+    </div>
+  );
+}
